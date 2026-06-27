@@ -19,10 +19,15 @@ https://startingelectronics.org/tutorials/arduino/modules/OLED-128x32-I2C-displa
 🧱 **Components**
 
 1x OLED 0.91 Inch display (128 x 32 px)
+
 1x Elegoo UNO R3
+
 1x Protoboard
+
 1x Soil moisture sensor
+
 1x Powerbank
+
 Wiring
 
 🤖 **AI Usage**

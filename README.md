@@ -2,7 +2,7 @@
 
 ⁉️ **What is this?**
 
-This is Enrique, a system for monitoring the humidity of the soil of my cactus that is called Enrique.
+A system for monitoring the humidity of the soil of my cactus that is called Enrique.
 
 🤨 **How did I did it?** 
 

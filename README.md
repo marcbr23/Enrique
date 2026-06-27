@@ -7,9 +7,13 @@ This is Enrique, a system for monitoring the humidity of the soil of my cactus t
 🤨 How did I did it? 
 
 I used the following video to learn how to make the sensor work:
+
 https://www.youtube.com/watch?v=C3NGTrF3IbI. 
+
 I also used these two websites to understand and make work the screen as well as a code example from Adafruit: 
+
 https://docs.cirkitdesigner.com/component/396e70cc-dd32-43c6-8eee-91852621f03c/091-i2c-oled-display
+
 https://startingelectronics.org/tutorials/arduino/modules/OLED-128x32-I2C-display/
 
 🧱 Components

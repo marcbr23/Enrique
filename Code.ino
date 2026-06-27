@@ -38,7 +38,7 @@ void loop() {
 
   if (sensorValueMap <= 22) {
     display.setCursor(34,20);
-    display.print("  Estat: Cal regar");
+    display.print("  Estat: Rega!");
   }
 
   else if (sensorValueMap > 22 && sensorValueMap < 61) {
@@ -48,7 +48,7 @@ void loop() {
 
   else if (sensorValueMap >= 61) {
     display.setCursor(34,20);
-    display.print("  Estat: No regui +");
+    display.print("  Estat: No +");
   }
 
   display.display();

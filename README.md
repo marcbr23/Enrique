@@ -1,10 +1,10 @@
 # Enrique!
 
-⁉️ What is this?
+⁉️ **What is this?**
 
 This is Enrique, a system for monitoring the humidity of the soil of my cactus that is called Enrique.
 
-🤨 How did I did it? 
+🤨 **How did I did it?** 
 
 I used the following video to learn how to make the sensor work:
 
@@ -16,7 +16,7 @@ https://docs.cirkitdesigner.com/component/396e70cc-dd32-43c6-8eee-91852621f03c/0
 
 https://startingelectronics.org/tutorials/arduino/modules/OLED-128x32-I2C-display/
 
-🧱 Components
+🧱 **Components**
 
 1x OLED 0.91 Inch display (128 x 32 px)
 1x Elegoo UNO R3
@@ -25,9 +25,13 @@ https://startingelectronics.org/tutorials/arduino/modules/OLED-128x32-I2C-displa
 1x Powerbank
 Wiring
 
-🤖 AI Usage
+🤖 **AI Usage**
 
 AI was used to solve issues as well as for answering questions.
+
+
+
+
 
 <img width="4000" height="3000" alt="IMG20260627180808" src="https://github.com/user-attachments/assets/3da2d61e-e62d-483f-a815-b262e065bd93" />
 

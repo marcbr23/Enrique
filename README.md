@@ -37,8 +37,6 @@ Wiring
 AI was used to solve issues as well as for answering questions.
 
 
-<img width="3000" height="4000" alt="IMG20260628164550" src="https://github.com/user-attachments/assets/0bd75a4e-c596-46d4-a823-3ad4b36d0d3d" />
-
 
 <img width="4000" height="3000" alt="IMG20260627180808" src="https://github.com/user-attachments/assets/3da2d61e-e62d-483f-a815-b262e065bd93" />
 
